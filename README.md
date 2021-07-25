@@ -1,1 +1,2 @@
-# c31-project
+# Project 31 : Plinko
+plinko
